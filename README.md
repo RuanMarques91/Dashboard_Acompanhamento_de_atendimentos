@@ -1,7 +1,7 @@
 # Dashboard Acompanhamento de Atendimentos
 
 <div align="center" >
-<img src="imagem.jpg"> 
+<img src="Imagem.JPG"> 
 </div>
 
 Arquivo em BI disponível para download!
